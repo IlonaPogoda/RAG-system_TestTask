@@ -22,3 +22,5 @@ https://colab.research.google.com/drive/1M3Iu1HsXNkmPaGvCtVLCm30hNaD9DRKq?usp=sh
 
 API_KEY=your_api_key_here
 BASE_URL=https://foundation-models.api.cloud.ru/v1
+
+https://github.com/IlonaPogoda/RAG-system_testTask
